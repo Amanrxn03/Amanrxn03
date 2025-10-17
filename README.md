@@ -5,13 +5,6 @@ Aspiring engineer exploring web, AI, IoT, mining, robotics & aerospace — focus
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aman.pradhan@example.com)  
-Location: India
-
----
-
 ## 🛠️ Tech Stack
 
 <span>
