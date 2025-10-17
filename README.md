@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aman Pradhan
+# 👋 Hi, I'm Amandeep Pradhan
 
 Welcome to my tech-driven world! 🚀  
 Aspiring engineer exploring web, AI, IoT, mining, robotics & aerospace — focused on real innovation and hackathon impact.
